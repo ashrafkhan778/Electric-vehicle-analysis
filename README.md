@@ -46,3 +46,12 @@ Shows the total number of vehicles that are classified as clean alternative fuel
 9.Total Vehicles by Model:
 
 Displays the number of BEVs and PHEVs categorized by vehicle model.
+
+# Electric-vehicle-analysis Dashboard
+![Main Dashboard](https://github.com/ashrafkhan778/Electric-vehicle-analysis/blob/main/Electric%20vehicle%20analysis.png)
+
+# How to Use
+Download the .csv file for icons.
+Use those in Power BI Desktop.
+Connect to the Electric_Vehicle_Population_Data.csv
+See the image attached for dashboard referenc
